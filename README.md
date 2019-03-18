@@ -9,7 +9,7 @@ Below is the result of my work;
 **Test 1: USD currency converter without parameter**
 ![alt text](https://i.ibb.co/HYQDd4D/Building-RESTful-Service-in-Java-using-JAX-RS-and-Jersey-1.png)
 
-**Test 1: USD currency converter without parameter**
+**Test 2: USD currency converter with parameter**
 ![alt text](https://i.ibb.co/9ty73B5/Building-RESTful-Service-in-Java-using-JAX-RS-and-Jersey-2.png)
 
 **Project organisation and code details**
