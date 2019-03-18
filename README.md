@@ -9,8 +9,16 @@ Below is the result of my work;
 **Test 1: USD currency converter without parameter**
 ![alt text](https://i.ibb.co/wRFj9xn/Building-RESTful-Service-in-Java-using-JAX-RS-and-Jersey-1.png)
 
+**Screenshot from Postman API development tool**
+![alt text](https://pasteboard.co/I622nfd.png)
+
+
 **Test 2: USD currency converter with parameter**
 ![alt text](https://i.ibb.co/56zB5xw/Building-RESTful-Service-in-Java-using-JAX-RS-and-Jersey-2.png)
+
+**Screenshot from Postman API development tool**
+![alt text](https://pasteboard.co/I622BQV.png)
+
 
 **Project organisation and code details**
 
