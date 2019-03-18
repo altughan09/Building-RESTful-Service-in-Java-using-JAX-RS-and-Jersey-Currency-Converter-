@@ -10,14 +10,14 @@ Below is the result of my work;
 ![alt text](https://i.ibb.co/wRFj9xn/Building-RESTful-Service-in-Java-using-JAX-RS-and-Jersey-1.png)
 
 **Screenshot from Postman API development tool**
-![alt text](https://pasteboard.co/I622nfd.png)
+![alt text](https://i.imgur.com/eHzejoB.png)
 
 
 **Test 2: USD currency converter with parameter**
 ![alt text](https://i.ibb.co/56zB5xw/Building-RESTful-Service-in-Java-using-JAX-RS-and-Jersey-2.png)
 
 **Screenshot from Postman API development tool**
-![alt text](https://pasteboard.co/I622BQV.png)
+![alt text](https://i.imgur.com/eHzejoB.pngblob:https://imgur.com/baa916c1-5e98-4f78-9ce0-74aa8742f48f)
 
 
 **Project organisation and code details**
