@@ -7,18 +7,18 @@ Java API for RESTful Web Services (JAX-RS), is a set of APIs to create REST serv
 Below is the result of my work;
 
 **Test 1: USD currency converter without parameter**
-![alt text](https://i.ibb.co/HYQDd4D/Building-RESTful-Service-in-Java-using-JAX-RS-and-Jersey-1.png)
+![alt text](https://i.ibb.co/wRFj9xn/Building-RESTful-Service-in-Java-using-JAX-RS-and-Jersey-1.png)
 
 **Test 2: USD currency converter with parameter**
-![alt text](https://i.ibb.co/9ty73B5/Building-RESTful-Service-in-Java-using-JAX-RS-and-Jersey-2.png)
+![alt text](https://i.ibb.co/56zB5xw/Building-RESTful-Service-in-Java-using-JAX-RS-and-Jersey-2.png)
 
 **Project organisation and code details**
 
 ![alt text](https://i.ibb.co/b681cNg/project-organisation.png)
 
-![alt text](https://i.ibb.co/gFjBTWq/1.png)
+![alt text](https://i.ibb.co/th8kRTq/1.png)
 
-![alt text](https://i.ibb.co/ThyHzp3/2.png)
+![alt text](https://i.ibb.co/2ncVvBC/2.png)
 
 **Project Object Model (pom.xml) Configuration **
 ```
@@ -110,9 +110,9 @@ public class USDService {
 		Double pln;
 		Double tl;
 				
-		eur = usd * 1.13;
-		pln = usd * 0.26;
-		tl = usd * 0.18;
+		eur = usd / 1.13;
+		pln = usd / 0.26;
+		tl = usd / 0.18;
 		jsonObject.put("USD Value", usd);
 		jsonObject.put("EUR Value", eur);
 		jsonObject.put("PLN Value", pln);
@@ -134,9 +134,9 @@ public class USDService {
 		Double pln;
 		Double tl;
 		
-		eur = usd * 1.13;
-		pln = usd * 0.26;
-		tl = usd * 0.18;
+		eur = usd / 1.13;
+		pln = usd / 0.26;
+		tl = usd / 0.18;
  
 		jsonObject.put("USD Value", usd);
 		jsonObject.put("EUR Value", eur);
@@ -149,4 +149,5 @@ public class USDService {
 
 	
 }
+
 ```
